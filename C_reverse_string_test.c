@@ -4,7 +4,7 @@
 void main () {
 	char a;
 	printf("Alphabets in ascending order");
-	for(a='A';a<='J';a++) {
+	for(a='A';a<='U';a++) {
 		printf("%c\n", a);
 	}
 	
